@@ -1,0 +1,29 @@
+h1 {
+    color: aqua;
+    font-size: 100px;
+    font-style: oblique;
+    
+    margin-top: 60px;
+    text-align: center;
+}
+body{
+    background-color: rgb(48, 44, 44);
+
+}
+p{
+    color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+}
+
+
+
+.dice{
+    display: inline-block;
+    margin-left: 20%;
+    width: 20%;
+    text-align: center;
+    
+}
